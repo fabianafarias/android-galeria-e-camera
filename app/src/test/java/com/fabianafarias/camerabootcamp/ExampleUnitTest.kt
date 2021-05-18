@@ -1,4 +1,4 @@
-package com.fabianafarias.fotosbootcamp
+package com.fabianafarias.camerabootcamp
 
 import org.junit.Test
 
