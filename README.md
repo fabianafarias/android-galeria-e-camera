@@ -4,5 +4,5 @@
 
 Tecnologias utilizadas:
 
-- Kotlin: 5.1.31
+- Kotlin: 1.4.31
 - Gradle: 4.2.0
